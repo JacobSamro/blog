@@ -1,10 +1,36 @@
 = 2016 The Goldern year
 
+:hp-tags: New Year, Aroliant, AirHacX, Verse, Announcements
+
+
+Happy New Year to all my Friends and their Families. Hope This new year brings all the joys and happiness to you.
 
 The promise verse of the year
 
-> I will make my covenant between me and you and will greatly increase your numbers - Genesis 17 : 2.
+> I will make my covenant between me and you and will greatly increase your numbers - Genesis 17: 2.
 
-Then only thing that came to my mind when I got the verse is our tech teams. We've invested thousands on money on it, Still now we are stucking a lot to proceed forward. 
+Then only thing that came to my mind when I got the verse is our tech teams. We've invested thousands on money on it, Still now we are sticking a lot to proceed forward. Family and Academics are the two walls in front of me. I kept my burden in God in order to move forward. Planned to stop watching Movies and listening to unwanted songs in this new year, Yes wait and see what happens.
 
-Family and Academics are the two walls in front of me.
+We have started Aroliant 2 years ago on November 2013, Planned to release a lot of products and open source projects. Majority of them dropped because of lack in collaboration and software patents. Yes, we will always try to take every step legally.  
+
+A few things that we've done on 2015
+
+* We have secured our services at Aroliant with HTTPS Connectivity.
+* Aroliant Accounts was released under beta
+* Cyberchoco.com was launched
+* AirHacX was initiated, and now it runs as a separate company. Lead by Gowtham Kolluru Vishwanath ( @kollurugowtham ).
+* Along with that we have given a lot of tools and services for our developers. 
+* Code ( https://www.aroliant.com/code/ ) was launched 2 weeks ago and it was one of the teams core projects of all the time. 
+
+In this new year, we are a lot of milestones, Even though we'll keep everything secret I want to list a few.
+
+* We are entering into the Android App market with Cyberchoco's Hackers Dictionary 
+* www.compile.work online compiler will be released in this Pongal ( January 15, 2016 )
+
+and there are a lot more, but I'd like to maintain secrecy.
+
+> Live as if you were to die tomorrow. Learn as if you were to live forever. - Mahatma Gandhi
+
+=================== The End ===================
+
+Will meet soon, on the next post
